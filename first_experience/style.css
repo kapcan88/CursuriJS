@@ -1,22 +1,26 @@
 .red {
-    color: rgba(243, 9, 9, 1);
+  color: rgba(243, 9, 9, 1);
 }
 
 .border {
-    border: 2px solid blue;
+  border: 2px solid blue;
 }
 
 .margin2px {
-    margin: 20px;
-    border: 2px solid green;
+  margin: 20px;
+  border: 2px solid green;
 }
 
 .Padding2px {
-    margin: 20px 25px 25px 25px;
-    border: 2px solid blue;
+  margin: 20px 25px 25px 25px;
+  border: 2px solid blue;
 }
 
 .w100px {
-    width: 100px;
-    background-color: aqua !important;
+  width: 100px;
+  background-color: aqua !important;
+}
+
+.btn:hover {
+  color: rgb(141, 141, 141);
 }
